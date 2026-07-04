@@ -1,4 +1,4 @@
-# 👥 Mutual Friends Finder
+# 👥 Applicaton Just like Facebook
 
 A Data Structures & Algorithms (DSA) project that simulates a social networking platform by finding **mutual friends** between users using **hashing**. Inspired by social media platforms like Facebook, the application allows users to manage friendships, identify mutual connections, and communicate through a simple chat system.
 
