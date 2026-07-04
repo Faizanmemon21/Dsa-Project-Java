@@ -17,7 +17,13 @@ A Data Structures & Algorithms (DSA) project that simulates a social networking 
 
 ## Technologies Used
 
-- C++
+- java
+- Priority Queue
+- Trees
+- Heaps
+- Searching
+- Greedy Algorithms
+- Recursion
 - Hash Tables
 - Data Structures & Algorithms
 
@@ -57,6 +63,7 @@ This project demonstrates:
 - Social Network Modeling
 - Data Structure Optimization
 - Algorithm Design
+- RecursionGreedy Algorithms
 
 ---
 
